@@ -1,4 +1,4 @@
 This is a pretty short story.
 There was a coder named Colin. He wrote lots of code.
 The code was great!
-The end.
+THE END
